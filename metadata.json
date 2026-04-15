@@ -1,0 +1,6 @@
+{
+  "name": "ChronoSteg",
+  "description": "A Time-Lock Encrypted Steganography tool for secure, time-delayed covert communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
